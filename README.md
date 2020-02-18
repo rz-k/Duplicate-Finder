@@ -12,8 +12,8 @@ python3 duplicate-finder.py -c passlist.txt -r
 ``` 
 ## Guide 
 
-To see duplicate words and display their numbers, we have the following command.
--f For Find and Show .
--r For Remove .
--c For Path file.
+To see duplicate words and display their numbers, we have the following command
+* -f For Find and Show 
+* -r For Remove 
+* -c For Path file
 
