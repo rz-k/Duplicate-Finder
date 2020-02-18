@@ -2,7 +2,7 @@
 ## Description
 With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 
-## Installation
+## Installation & Runing
 ``` 
 $ cd Duplicate-Finder 
 $ pip3 install -r requirements.txt
