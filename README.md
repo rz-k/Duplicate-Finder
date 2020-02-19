@@ -2,6 +2,15 @@
 ## Description
 With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 
+![alt text](http://s7.picofile.com/file/8388687442/find.png "Logo Title Text 1")
+
+
+
+
+
+
+
+
 ## Installation & Runing
 ``` 
 $ cd Duplicate-Finder 
