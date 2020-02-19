@@ -2,7 +2,7 @@
 ## Description
 With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 
-## Find Duplicate
+## Find Duplicate & Show them
 ![alt text](http://s7.picofile.com/file/8388687442/find.png "find duplicate")
 
 ## Remove Duplicate
